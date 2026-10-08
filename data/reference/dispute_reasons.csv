@@ -1,0 +1,8 @@
+reason_code,reg_e_error_type
+Unauthorized,Unauthorized EFT
+Duplicate,Incorrect EFT amount
+Goods/Services Not Received,Goods or services not delivered
+Incorrect Amount,Incorrect EFT amount
+ATM Cash Not Dispensed,ATM cash not received
+Credit Not Processed,Credit not received
+Other,Other

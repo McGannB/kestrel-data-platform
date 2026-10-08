@@ -1,0 +1,13 @@
+theme_code,pattern
+fees_overdraft,overdraft|\bnsf\b|courtesy pay|returned item fee|maintenance fee|\bfees?\b
+debit_dispute,did not make|never authorized|unauthorized|dispute|charged twice|provisional credit|zenpay|ach debit|atm did not
+credit_card_billing,credit card|\bvisa\b|\bapr\b|credit limit|balance transfer|billing
+fraud_scam,scam|gift cards?|grandson|pretending|identity|romance|crypto|wired|one time passcode|\birs\b
+digital_access,log ?in|password|\bapp\b|online banking|bill pay|verification code|mobile deposit|locked out|conversion
+loan_servicing,loan|mortgage|escrow|payoff|title|gap insurance|deferral
+credit_reporting,credit report|credit bureau|bureaus|reported a|collection account|charged off|score
+funds_availability,\bhold\b|held|cashiers check|tax refund check|payroll check
+account_open_close,account was closed|close my account|chexsystems|froze|frozen|restricted|open an account
+member_service,rude|waited|wait|hung up|laughed|dismissive|voicemail|drive thru|disrespectful|hours
+privacy,someone else's statement|old address|privacy|sell my information|another member's|loudly
+fair_lending,discriminat|because of my age|adverse action|having children|higher rate

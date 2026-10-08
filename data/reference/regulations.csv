@@ -1,0 +1,11 @@
+reg_code,short_name,full_name,cfr_cite,agency,plain_summary
+REG_E,Reg E,Electronic Fund Transfer Act (Regulation E),12 CFR 1005,CFPB,"Debit card, ACH and P2P transfers; error resolution, provisional credit and liability limits."
+REG_Z,Reg Z,Truth in Lending Act (Regulation Z),12 CFR 1026,CFPB,"Credit cards and loans: disclosures, billing error resolution, APRs and fees."
+REG_DD,Truth in Savings,Truth in Savings (NCUA Part 707),12 CFR 707,NCUA,"Deposit account disclosures, fee schedules and overdraft fee disclosures for credit unions."
+REG_CC,Reg CC,Expedited Funds Availability (Regulation CC),12 CFR 229,Federal Reserve,How fast deposited funds must be available and when holds can be placed.
+REG_X,Reg X,Real Estate Settlement Procedures Act (Regulation X),12 CFR 1024,CFPB,"Mortgage servicing: escrow, error resolution, payment application."
+REG_V,Reg V,Fair Credit Reporting Act (Regulation V),12 CFR 1022,CFPB,Accuracy of information furnished to credit bureaus and dispute handling.
+REG_B,Reg B,Equal Credit Opportunity Act (Regulation B),12 CFR 1002,CFPB,No discrimination in lending; adverse action notices.
+REG_P,Reg P,Privacy of Consumer Financial Information (Regulation P),12 CFR 1016,CFPB,"Privacy notices, opt-outs and limits on sharing member information."
+BSA,BSA/AML,Bank Secrecy Act / Anti-Money Laundering,31 CFR 1020; 12 CFR 748,FinCEN / NCUA,"Customer identification, suspicious activity monitoring and reporting."
+UDAAP,UDAAP,"Unfair, Deceptive, or Abusive Acts or Practices","12 U.S.C. 5531, 5536",CFPB,Practices that harm members even when another rule is not broken.

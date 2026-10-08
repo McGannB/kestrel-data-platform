@@ -1,0 +1,15 @@
+theme_code,reg_code
+fees_overdraft,REG_DD
+fees_overdraft,UDAAP
+debit_dispute,REG_E
+credit_card_billing,REG_Z
+fraud_scam,BSA
+fraud_scam,UDAAP
+digital_access,REG_E
+loan_servicing,REG_Z
+loan_servicing,REG_X
+credit_reporting,REG_V
+funds_availability,REG_CC
+account_open_close,BSA
+privacy,REG_P
+fair_lending,REG_B

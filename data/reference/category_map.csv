@@ -1,0 +1,26 @@
+form_label,category_code,category_name
+Fees/Charges,fees_overdraft,Fees & Overdraft
+Disputed Transaction,debit_dispute,Card & Transfer Disputes
+Credit Card,credit_card_billing,Credit Card Billing
+Fraud or Scam,fraud_scam,Fraud & Scams
+Online Banking/App,digital_access,Online & Mobile Banking
+Loan Payment,loan_servicing,Loans & Payments
+Credit Report,credit_reporting,Credit Reporting
+Deposit Hold,funds_availability,Check Holds & Deposits
+Open/Close Account,account_open_close,Account Opening & Closing
+Service Issue,member_service,Member Service & Staff
+Privacy,privacy,Privacy & Information Security
+Loan Decision,fair_lending,Lending Decisions
+Fees & Overdraft,fees_overdraft,Fees & Overdraft
+Card or Transfer Dispute,debit_dispute,Card & Transfer Disputes
+Credit Card Billing,credit_card_billing,Credit Card Billing
+"Fraud, Scam or Identity Theft",fraud_scam,Fraud & Scams
+Online & Mobile Banking,digital_access,Online & Mobile Banking
+Loans & Payments,loan_servicing,Loans & Payments
+Credit Reporting,credit_reporting,Credit Reporting
+Check Holds & Deposits,funds_availability,Check Holds & Deposits
+Opening or Closing an Account,account_open_close,Account Opening & Closing
+Staff or Service,member_service,Member Service & Staff
+Loan Application Decision,fair_lending,Lending Decisions
+Other,other,Other
+Something else,other,Other

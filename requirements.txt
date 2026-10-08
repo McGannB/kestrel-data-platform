@@ -1,0 +1,30 @@
+# Kestrel data kit - core packages (Python 3.13 recommended; 3.12 also works)
+# Install:  python -m pip install -r requirements.txt
+pandas==3.0.6
+pyarrow==25.0.1
+polars==1.44.2
+duckdb==1.5.5
+pytz==2026.1        # DuckDB needs it to return time-zone-aware timestamps to Python
+numpy==2.5.3
+openpyxl==3.1.5
+requests==2.34.2
+httpx==0.28.1
+pyyaml==6.0.3
+tenacity==9.1.4
+python-dotenv==1.2.3
+rapidfuzz==3.14.6
+pypdf==6.19.0
+scikit-learn==1.9.1
+pandera==0.33.1
+plotly==7.1.0
+streamlit==1.64.0
+fastapi==0.141.1
+uvicorn==0.53.0
+strawberry-graphql==0.327.7
+typer==0.27.2
+pytest==9.1.1
+ruff==0.16.8
+sqlfluff==4.3.0
+pre-commit==4.6.2
+jupyterlab==4.6.4
+ipykernel==7.3.0
