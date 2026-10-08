@@ -1,4 +1,4 @@
-# Kestrel data kit
+# Kestrel data platform (my notes)
 
 Practice kit for the **Bronze to Gold** course. Everything here is fictional: Kestrel Valley Credit Union,
 its members, complaints, disputes and staff are generated data. Phone numbers use 555-01xx, emails use
