@@ -30,7 +30,7 @@ while url:
     page_no += 1
     if expected is None:
         expected = body.get("@odata.count")
-    (out_dir / f"page_{page_no:04d}.json").write_text(json.dumps(body), encodings="utf-8")
+    (out_dir / f"page_{page_no:04d}.json").write_text(json.dumps(body), encoding="utf-8")
     total_entries += len(body["value"])
     url = body.get("@odata.nextLink") # None on the last page -> loop ends
     params = None # the nextLink already has all the params
@@ -51,7 +51,7 @@ print("-> matches @odata.count:", "yes" if total_entries == expected else "NO")
 
 incomplete = 0
 for page in sorted(out_dir.glob("page_*.json")):
-    for entry in json.loads(page.read_text(encodings="utf-8"))["value"]:
+    for entry in json.loads(page.read_text(encoding="utf-8"))["value"]:
         if entry["Entry"]["Status"] == "Incomplete":
             incomplete += 1
 print("-> incomplete entries:", incomplete)
